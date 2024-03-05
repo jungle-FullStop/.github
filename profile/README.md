@@ -63,6 +63,10 @@
 | <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png'> | <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png'> |
 
 
+## 시연 동영상
+[![Watch the video](https://img.youtube.com/vi/R29g41kvHS4/maxresdefault.jpg)](https://www.youtube.com/watch?v=R29g41kvHS4)
+
+
 ## 👻 Member
 
 <table>
