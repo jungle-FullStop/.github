@@ -84,7 +84,7 @@
     </td>
     <td align="center" width="120px">
       <a href="https://github.com/gun9311" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/147376710?v=4" alt="박건률 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/145307395?v=4" alt="박건률 프로필" />
       </a>
     </td>
     <td align="center" width="120px">
