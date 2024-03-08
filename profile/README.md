@@ -7,7 +7,7 @@
 </a>
 
 [![](https://img.shields.io/badge/-티.나.끝_데모사이트-important?style=flat&logo=airplayvideo&logoColor=white&labelColor=black&color=%FFFF00)](https://tilfullstop.site/home)
-[![](https://img.shields.io/badge/-티.나.끝_ChromeExtension-important?style=flat&logo=angellist&logoColor=balck&labelColor=black&color=white)
+[![](https://img.shields.io/badge/-티.나.끝_ChromeExtension-important?style=flat&logo=googlechrome&logoColor=balck&labelColor=black&color=white)
 ](https://chromewebstore.google.com/detail/%ED%8B%B0%EB%82%98%EB%81%9D-til-%EC%9E%91%EC%84%B1%EB%8F%84%EC%9A%B0%EB%AF%B8/iippaokmojjmpmgcpidfeniaodkbpphl?hl=ko&authuser=0)
 
 
