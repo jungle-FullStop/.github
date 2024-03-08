@@ -1,8 +1,7 @@
 <div align="center">
 <a href="https://tilfullstop.site/">
-<img width="150px" src="https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/logo.png" alt="티나끝 이동하기"/>
+<img src="https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/logo.png" alt="티나끝 이동하기"/>
 </a>
-
 
 [![](https://img.shields.io/badge/-FullStop-important?style=flat&logo=airplayvideo&logoColor=white&labelColor=black&color=%FFFF00)](https://tilfullstop.site/home)
 [![](https://img.shields.io/badge/-FullStop_Extension-important?style=flat&logo=angellist&logoColor=balck&labelColor=black&color=white)
