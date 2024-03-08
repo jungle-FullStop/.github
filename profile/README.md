@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://tilfullstop.site/">
-<img width="150px" src="[https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/logo.png](https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/logo.png)" alt="티나끝 이동하기"/>
+<img width="150px" src="https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/logo.png" alt="티나끝 이동하기"/>
 </a>
 
 
@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <td align="center">
-      <img src='[https://github.com/jungle-FullStop/.github/blob/1c537b991145c5ddfdfc57e2ba5089d09c988414/profile/mainpage.gif](https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/mainpage.gif)'>
+      <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/mainpage.gif'>
     </td>
 </tr>
 </table>
@@ -58,9 +58,9 @@
 
 |                                                        마인드맵                                                        |                                                         가이드라인                                                        |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img src='[https://github.com/jungle-FullStop/.github/blob/1c537b991145c5ddfdfc57e2ba5089d09c988414/profile/mindmap.gif](https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/mindmap.gif)'> | <img src='[https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png](https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/guideline.gif)'> |
+| <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/mindmap.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/guideline.gif'> |
 |                                                     <b>팀잔디</b>                                                      |                                                <b>익스텐션</b>                                                |
-| <img src='[https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png](https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/grass.gif)'> | <img src='[https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png](https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/extension.gif)'> |
+| <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/grass.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/extension.gif'> |
 
 
 ## 시연 동영상
