@@ -36,6 +36,7 @@
 티나끝과 함께라면, 개발자로서의 여정을 더욱 풍부하고 가치 있게 만들 수 있습니다. 여러분의 개발 학습 과정을 지원하고, 새로운 지식을 효과적으로 정리하며, 동료들과 함께 성장할 수 있는 기회를 제공합니다.
 
 </div>
+<br/>
 
 ## 🖥️ Service
 
@@ -59,16 +60,16 @@
 |                                                     <b>팀잔디</b>                                                      |                                                <b>익스텐션</b>                                                |
 | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/grass.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/extension.gif'> |
 
-
+<br/>
 ## 시연 동영상
 [![Watch the video](https://img.youtube.com/vi/R29g41kvHS4/maxresdefault.jpg)](https://www.youtube.com/watch?v=R29g41kvHS4)
 
-
+<br/>
 ## 👻 Member
 
 <table>
 <tr>
-<td align="center"> 마인드맵, 레퍼런스 검색기능 </td>
+<td align="center"> 마인드맵, 사이드바 및 UI 구현 </td>
 <td align="center"> 백그라운드 알림, TIL 가이드라인 </td>
 <td align="center"> 게시판 기능, 애니메이션 효과 </td>
 <td align="center"> 실시간 상태확인, 서버배포, 익스텐션 </td>
@@ -119,7 +120,7 @@
   </tr>
 </table>
 
-
+<br/>
 ## 발표 포스터
 
 <img width="600px" src='https://github.com/jungle-FullStop/frontend/blob/main/public/images/fullstop_post.jpg'  alt="장표"/>
