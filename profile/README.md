@@ -36,8 +36,7 @@
 티나끝과 함께라면, 개발자로서의 여정을 더욱 풍부하고 가치 있게 만들 수 있습니다. 여러분의 개발 학습 과정을 지원하고, 새로운 지식을 효과적으로 정리하며, 동료들과 함께 성장할 수 있는 기회를 제공합니다.
 
 </div>
-<br/>
-
+  
 ## 🖥️ Service
 
 <table>
@@ -59,12 +58,10 @@
 | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/mindmap.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/guideline.gif'> |
 |                                                     <b>팀잔디</b>                                                      |                                                <b>익스텐션</b>                                                |
 | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/grass.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/extension.gif'> |
-
-<br/>
+  
 ## 시연 동영상
 [![Watch the video](https://img.youtube.com/vi/R29g41kvHS4/maxresdefault.jpg)](https://www.youtube.com/watch?v=R29g41kvHS4)
-
-<br/>
+  
 ## 👻 Member
 
 <table>
@@ -75,22 +72,22 @@
 <td align="center"> 실시간 상태확인, 서버배포, 익스텐션 </td>
 </tr>
   <tr>
-    <td align="center" width="120px">
+    <td align="center" width="150px">
       <a href="https://github.com/YellaCRE" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/76480887?v=4" alt="황창조 프로필" />
       </a>
     </td>
-    <td align="center" width="120px">
+    <td align="center" width="150px">
       <a href="https://github.com/gun9311" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/145307395?v=4" alt="박건률 프로필" />
       </a>
     </td>
-    <td align="center" width="120px">
+    <td align="center" width="150px">
       <a href="https://github.com/junhee1203" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/147376710?v=4" alt="정준희 프로필" />
       </a>
     </td>
-    <td align="center" width="120px">
+    <td align="center" width="150px">
       <a href="https://github.com/ParkJJungmIn" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/61037158?v=4" alt="박정민 프로필" />
       </a>
@@ -120,7 +117,7 @@
   </tr>
 </table>
 
-<br/>
+  
 ## 발표 포스터
 
 <img width="600px" src='https://github.com/jungle-FullStop/frontend/blob/main/public/images/fullstop_post.jpg'  alt="장표"/>
