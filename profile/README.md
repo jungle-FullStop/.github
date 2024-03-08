@@ -1,3 +1,6 @@
+# 티.나.끝
+## 크래프톤 정글 3기 나만의 무기 만들기 프로젝트
+
 <div align="center">
 <a href="https://tilfullstop.site/">
 <img src="https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/logo.png" alt="티나끝 이동하기"/>
