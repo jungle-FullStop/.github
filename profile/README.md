@@ -1,5 +1,5 @@
-# ✨ 티.나.끝 ✨
-## 크래프톤 정글 3기 팀 마침표
+# ✨ 티.나.끝
+## 크래프톤 정글 3기 ✨ 팀 마침표
 
 <div align="center">
 <a href="https://tilfullstop.site/">
