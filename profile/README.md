@@ -12,13 +12,16 @@
 
 
 <div align="left">
+  
+<br/>
+<a name="티나끝"> </a>
 
 ## 🗨️ About 티나끝
 
 
 개발자 여러분의 일상에 새로운 활력을 불어넣고, 매일의 학습을 기록하는 과정을 더욱 즐겁고 효율적으로 만들어 줄 플랫폼, 티나끝이 여기 있습니다! 티나끝은 TIL(Today I Learned)을 쉽고 재미있게 작성할 수 있는 사이트로, 개발 학습 과정을 한층 업그레이드시켜 줄 준비가 되어 있습니다.
 
-
+  
 ### 💡 티나끝의 주요 기능
 
 - **TIL 작성 가이드**
@@ -36,7 +39,10 @@
 티나끝과 함께라면, 개발자로서의 여정을 더욱 풍부하고 가치 있게 만들 수 있습니다. 여러분의 개발 학습 과정을 지원하고, 새로운 지식을 효과적으로 정리하며, 동료들과 함께 성장할 수 있는 기회를 제공합니다.
 
 </div>
-  
+
+<br/>
+<a name="Service"> </a>
+
 ## 🖥️ Service
 
 <table>
@@ -58,10 +64,16 @@
 | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/mindmap.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/guideline.gif'> |
 |                                                     <b>팀잔디</b>                                                      |                                                <b>익스텐션</b>                                                |
 | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/grass.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/extension.gif'> |
-  
+
+<br/>
+<a name="시연 동영상"> </a>
+
 ## 시연 동영상
 [![Watch the video](https://img.youtube.com/vi/R29g41kvHS4/maxresdefault.jpg)](https://www.youtube.com/watch?v=R29g41kvHS4)
-  
+
+<br/>
+<a name="Member"> </a>
+
 ## 👻 Member
 
 <table>
@@ -117,7 +129,9 @@
   </tr>
 </table>
 
-  
+<br/>
+<a name="발표 포스터"> </a>
+
 ## 발표 포스터
 
 <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/images/fullstop_post.jpg'  alt="장표"/>
