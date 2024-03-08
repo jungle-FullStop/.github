@@ -33,7 +33,7 @@
   - 자동으로 생성되는 마인드맵을 통해 TIL을 쓰기 전 오늘 하루를 돌아볼 수 있습니다.
 
 - **재미 요소 추가**
-  - 잔디 기능을 통해 얼마나 꾸준히 TIL을 작성했는지 한눈에 확인
+  - 텃밭 기능을 통해 얼마나 꾸준히 TIL을 작성했는지 한눈에 확인
   - 학습의 동기를 부여하고, 스스로에게 성취감을 주는 중요한 요소입니다.
 
 <br/>
@@ -60,10 +60,10 @@
 </table>
 
 
-|                                                        마인드맵                                                        |                                                         가이드라인                                                        |
+|                                                       키워드 마인드맵                                                        |                                                        TIL 가이드라인                                                        |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/mindmap.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/guideline.gif'> |
-|                                                     <b>팀잔디</b>                                                      |                                                <b>익스텐션</b>                                                |
+|                                                     <b>팀 TIL 텃밭</b>                                                      |                                                <b>검색 기록 수집</b>                                                |
 | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/grass.gif'> | <img src='https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/extension.gif'> |
 
 <br/>
