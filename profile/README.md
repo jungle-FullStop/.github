@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <td align="center">
-      <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png'>
+      <img src='https://github.com/jungle-FullStop/.github/blob/032826b4cd2ef2f463c47e7c56e39084da59041c/profile/mainpage.gif'>
     </td>
 </tr>
 </table>
