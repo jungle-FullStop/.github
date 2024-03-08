@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <td align="center">
-      <img src='https://github.com/jungle-FullStop/.github/blob/032826b4cd2ef2f463c47e7c56e39084da59041c/profile/mainpage.gif'>
+      <img src='https://github.com/jungle-FullStop/.github/blob/1c537b991145c5ddfdfc57e2ba5089d09c988414/profile/mainpage.gif'>
     </td>
 </tr>
 </table>
@@ -58,7 +58,7 @@
 
 |                                                        마인드맵                                                        |                                                         가이드라인                                                        |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png'> | <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png'> |
+| <img src='https://github.com/jungle-FullStop/.github/blob/1c537b991145c5ddfdfc57e2ba5089d09c988414/profile/mindmap.gif'> | <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png'> |
 |                                                     <b>팀잔디</b>                                                      |                                                <b>익스텐션</b>                                                |
 | <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png'> | <img src='https://github.com/jungle-FullStop/frontend/blob/main/public/logo.png'> |
 
