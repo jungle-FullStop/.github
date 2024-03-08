@@ -1,6 +1,3 @@
-# 티.나.끝
-## 크래프톤 정글 3기 ✨ 팀 마침표 ✨
-
 <div align="center">
 <a href="https://tilfullstop.site/">
 <img src="https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/logo.png" alt="티나끝 이동하기"/>
@@ -10,6 +7,9 @@
 [![](https://img.shields.io/badge/-티.나.끝_ChromeExtension-important?style=flat&logo=googlechrome&logoColor=white&labelColor=black&color=white&height=300)
 ](https://chromewebstore.google.com/detail/%ED%8B%B0%EB%82%98%EB%81%9D-til-%EC%9E%91%EC%84%B1%EB%8F%84%EC%9A%B0%EB%AF%B8/iippaokmojjmpmgcpidfeniaodkbpphl?hl=ko&authuser=0)
 
+# 티나끝
+
+### ✨ TIL을 쓰지 않으면 나의 하루는 끝나지 않는다, 티나끝 ✨
 
 <div align="left">
   
