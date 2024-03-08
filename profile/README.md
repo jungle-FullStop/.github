@@ -72,22 +72,22 @@
 <td align="center"> 실시간 상태확인, 서버배포, 익스텐션 </td>
 </tr>
   <tr>
-    <td align="center" width="150px">
+    <td align="center">
       <a href="https://github.com/YellaCRE" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/76480887?v=4" alt="황창조 프로필" />
       </a>
     </td>
-    <td align="center" width="150px">
+    <td align="center">
       <a href="https://github.com/gun9311" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/145307395?v=4" alt="박건률 프로필" />
       </a>
     </td>
-    <td align="center" width="150px">
+    <td align="center">
       <a href="https://github.com/junhee1203" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/147376710?v=4" alt="정준희 프로필" />
       </a>
     </td>
-    <td align="center" width="150px">
+    <td align="center">
       <a href="https://github.com/ParkJJungmIn" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/61037158?v=4" alt="박정민 프로필" />
       </a>
@@ -120,4 +120,4 @@
   
 ## 발표 포스터
 
-<img width="600px" src='https://github.com/jungle-FullStop/frontend/blob/main/public/images/fullstop_post.jpg'  alt="장표"/>
+<img src='https://github.com/jungle-FullStop/frontend/blob/main/public/images/fullstop_post.jpg'  alt="장표"/>
