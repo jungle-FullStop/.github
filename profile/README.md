@@ -6,8 +6,8 @@
 <img src="https://github.com/jungle-FullStop/.github/blob/c0b1728f1ef85cf1e3e8648fa0102711af3627bf/profile/logo.png" alt="티나끝 이동하기"/>
 </a>
 
-[![](https://img.shields.io/badge/-FullStop-important?style=flat&logo=airplayvideo&logoColor=white&labelColor=black&color=%FFFF00)](https://tilfullstop.site/home)
-[![](https://img.shields.io/badge/-FullStop_Extension-important?style=flat&logo=angellist&logoColor=balck&labelColor=black&color=white)
+[![](https://img.shields.io/badge/-티.나.끝_데모사이트-important?style=flat&logo=airplayvideo&logoColor=white&labelColor=black&color=%FFFF00)](https://tilfullstop.site/home)
+[![](https://img.shields.io/badge/-티.나.끝_크롬_Extension-important?style=flat&logo=angellist&logoColor=balck&labelColor=black&color=white)
 ](https://chromewebstore.google.com/detail/%ED%8B%B0%EB%82%98%EB%81%9D-til-%EC%9E%91%EC%84%B1%EB%8F%84%EC%9A%B0%EB%AF%B8/iippaokmojjmpmgcpidfeniaodkbpphl?hl=ko&authuser=0)
 
 
