@@ -79,10 +79,10 @@
 
 <table>
 <tr>
-<td align="center"> 마인드맵, 사이드바 및 UI 구현 </td>
-<td align="center"> 백그라운드 알림, TIL 가이드라인 </td>
-<td align="center"> 게시판 기능, 애니메이션 효과 </td>
-<td align="center"> 실시간 상태확인, 서버배포, 익스텐션 </td>
+<td align="center"> Full-stack </td>
+<td align="center"> BE </td>
+<td align="center"> FE </td>
+<td align="center"> BE </td>
 </tr>
   <tr>
     <td align="center">
